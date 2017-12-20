@@ -8,6 +8,7 @@ An application which converts an image file into a icon (.icns) file.
 5. Select 'Choose'.
 
 A .icns file will be created on the Desktop.
+
 To change a files icon:
 
 1. Copy new .icns file.
