@@ -1,6 +1,8 @@
 # Create-Icon-OSX
 An application which converts an image file into a icon (.icns) file.
 
+To use:
+
 1. Create an image with a 1024 x 1024 resolution.
 2. Export as .png with background transparency.
 3. Open 'Create Icon' application.
